@@ -11,6 +11,11 @@
 Built with **Streamlit** + **OpenRouter (free vision AI)** + **Pydantic** + **openpyxl**.
 
 ---
+---
+Screenshots
+
+
+---
 
 ## � Table of Contents
 
